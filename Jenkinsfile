@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = "imranvisualpath/vproappdock"
+        registry = "selvakraj/vproappdock"
         registryCredential = 'dockerhub'
     }
 
